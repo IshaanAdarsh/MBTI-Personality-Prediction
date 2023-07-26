@@ -1,0 +1,8 @@
+- [Github Project](https://github.com/esharma3/myers-briggs-personality-prediction)
+- https://www.mdpi.com/2414-4088/4/1/9
+- [Yt Video](https://www.youtube.com/watch?v=2pLtut2X1es)
+- [Yt Video2](https://www.youtube.com/watch?v=XsR5uxFQ6UY)
+- [Kaggle Notebook](https://www.kaggle.com/code/rajshreev/mbti-personality-predictor-using-machine-learning)
+- [Something](https://www.niser.ac.in/~smishra/teach/cs460/2021/project/21cs460_group15/)
+- [GIthub pages pe bhi kcuh mila](https://donche.github.io/en/2017/12/27/mbti_blog.html)
+- [Real Github Shit](https://github.com/Nathalie-Elinor-Abu/mais-hacks-2020)
